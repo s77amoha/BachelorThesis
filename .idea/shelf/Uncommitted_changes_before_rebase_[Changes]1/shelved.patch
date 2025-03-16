@@ -1,0 +1,39 @@
+Index: .idea/BachelorThesis.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<module type=\"PYTHON_MODULE\" version=\"4\">\n  <component name=\"NewModuleRootManager\">\n    <content url=\"file://$MODULE_DIR$\" />\n    <orderEntry type=\"jdk\" jdkName=\"Python 3.10\" jdkType=\"Python SDK\" />\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\n  </component>\n  <component name=\"PyDocumentationSettings\">\n    <option name=\"format\" value=\"PLAIN\" />\n    <option name=\"myDocStringFormat\" value=\"Plain\" />\n  </component>\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/BachelorThesis.iml b/.idea/BachelorThesis.iml
+--- a/.idea/BachelorThesis.iml	(revision b650e5167f4cea7f3b35190fd1e33cfa9539bbdf)
++++ b/.idea/BachelorThesis.iml	(date 1742085323080)
+@@ -1,10 +1,5 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+-<module type="PYTHON_MODULE" version="4">
+-  <component name="NewModuleRootManager">
+-    <content url="file://$MODULE_DIR$" />
+-    <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
+-    <orderEntry type="sourceFolder" forTests="false" />
+-  </component>
++<module version="4">
+   <component name="PyDocumentationSettings">
+     <option name="format" value="PLAIN" />
+     <option name="myDocStringFormat" value="Plain" />
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1742084776610)
++++ b/.idea/vcs.xml	(date 1742084776610)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
